@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Data Analysis Agent
+`# 🤖 AI-Powered Data Analysis Agent
 
 An automated Python-based Data Analysis and Business Intelligence Agent that analyzes Excel and CSV datasets and generates useful business insights, KPIs, charts, recommendations, and professional PDF reports.
 
@@ -74,3 +74,6 @@ The goal of this project is to automate common data analysis and business intell
 ## 👨‍💻 Author
 
 Data Analyst | Python | Excel | SQL | Power BI
+## 📄 Sample Sales Analysis Report
+
+[View AI Sales Analysis Report](./AI_Sales_Client_Report.pdf)
